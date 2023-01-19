@@ -6,4 +6,4 @@ The datasets analyzed to obtain a predictive analysis are the following:
 - Image clasification.
 - Wisconsin Breast Cancer.
 ##
-![](/Machine-Learning/blob/main/picture.PNG) 
+![](/picture.PNG) 
